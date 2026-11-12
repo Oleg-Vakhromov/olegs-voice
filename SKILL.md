@@ -1,6 +1,6 @@
 ---
 name: olegs-voice
-version: 3.0.1
+version: 3.0.2
 description: |
   Write or rewrite any prose so it reads like a careful person wrote it, not an AI
   assistant: messages, emails, memos, comments, reports, papers, articles. One voice for
