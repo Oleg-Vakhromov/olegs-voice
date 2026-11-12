@@ -1,6 +1,6 @@
 ---
 name: olegs-voice
-version: 2.18.0
+version: 2.19.0
 description: |
   Rewrite or draft business prose in the author's voice — Slack messages,
   channel updates, DMs, emails, memos, Jira/PR comments, report text and
@@ -247,7 +247,9 @@ headings or table columns. Otherwise the anti-signpost and anti-list rules stand
    commence; now, not currently or at this point in time. Full table in the reference.
 5. **Active verbs, real people.** "Agents collected less", not "There was a deterioration in
    collection efficiency." No concept nouns, no noun chains ("repayment rate performance
-   monitoring framework").
+   monitoring framework"). A passive is fine when the thing the sentence is about is the
+   subject and the actor is a short "by" phrase at the end ("a corpus assembled by a
+   human"). Never use it to hide the author's own action.
 6. **No jargon, journalese or euphemism.** Don't turn nouns into verbs (impact, access,
    target, action, leverage). Drop prioritize, ongoing, upcoming, input, going forward. Say
    "write-off", not "credit loss event"; "we missed budget by X", not "negative variance".
@@ -506,6 +508,11 @@ its importance, reflects broader, setting the stage for, key turning point, evol
 - **Aphorism after a fact** — a one-line flourish or metaphor after concrete points ("...put
   their name on fiction"). Its only job is to say the content matters. Delete it; the facts
   carry it
+- **Stacked bare relative clauses** — a noun followed by a clause with no "that" or
+  "which" ("the paper a claim cites has to exist in a corpus a human assembled"). The
+  reader stops and re-parses. Use a participle and "by" ("every claim cited by the paper
+  must exist in a corpus assembled by a human"). Write a requirement with "must", not
+  "has to" or "needs to", and give consecutive requirements the same subject and shape
 - **Pronoun for the noun the reader is tracking** — repeat the name ("the harness") instead
   of "it", and state a rule as a rule ("any claim must pass through the harness") instead
   of a flat "every claim passes through it"
@@ -602,6 +609,7 @@ of the voice rules:
 - [ ] Correct capitals and grammar in every register, including one-line acks
 - [ ] Warm and plain: direct, never cold
 - [ ] No hedge or concession opener; only a sequence or condition clause may lead a sentence
+- [ ] No bare relative clauses stacked on a noun; requirements use "must" and share a subject
 - [ ] No staged reveal, no aphorism after a fact; a coined term is defined in plain words where first used
 - [ ] Edit pass done in place (`references/edit_pass.md`): uneven shape, no tidy closer, no stakes sentence, no triad
 - [ ] Papers only: exactly the sections the author named; the paper's question is stated early and
