@@ -11,7 +11,8 @@ was picked as the human text over both the unedited draft and the real human par
   Cut a fact only to fold it into a neighbour or because it repeats another, never because
   the argument does not need it.
 - **Touch only what a move below names.** Leave every other sentence word for word. If you
-  change more than a third of the sentences, you are rewriting; stop and undo.
+  change more than a third of the sentences, you are rewriting; stop and undo. Sentences
+  rewritten under move 13 do not count toward the third.
 - **One pass, in the order below, then reread once and stop.**
 - **Never name your notes or sources as a source** ("according to the notes").
 - **Not for one-line replies.** Those get SKILL.md's checklist only.
@@ -35,7 +36,9 @@ was picked as the human text over both the unedited draft and the real human par
 3. **Cut the tidy closer.** If the last sentence sums up, repeats the point, says what comes
    next or states why it matters, delete it or move it beside the fact it explains. If a
    quote from the middle has been promoted to the ending, move it back. End on a specific
-   plain fact.
+   plain fact about an actor already in the text, not a stray figure or a lone leftover
+   line (a hiring pause, a hedging percentage). Attach such a fact to the paragraph it
+   belongs to.
 4. **Cut stakes lines.** Delete a sentence whose only job is to say the content matters
    ("this has major implications", "importantly", "it is worth noting"). Keep a
    consequence that is attached to a fact, and keep the one interpretive clause on the
@@ -59,6 +62,16 @@ was picked as the human text over both the unedited draft and the real human par
 12. **Fix the openers and clauses.** Replace a hedge or concession opener with the subject
     and verb, replace a stacked bare relative clause with a participle and "by", and
     replace a pronoun with the noun the reader is tracking where "it" is ambiguous.
+13. **Check for copying (only when you wrote from notes, a sheet or a source).** Compare
+    the draft with the notes. Any run of six or more words that matches them, apart from
+    names, numbers, titles and direct quotes, is copied: look away from the note and
+    restate that fact in your own words, keeping the figure and its source. Do this for
+    every such run, not a sample. If most of the draft matches the notes, redo the
+    sentences, not the structure.
+14. **Cut the echo.** Delete a sentence that repeats a cause or fact already given in the
+    first two paragraphs ("Ridgeway blamed diesel costs for the cut", when the opening
+    already said so). If the ending reuses a phrase from the middle ("one of several
+    steps to...") cut the ending's copy and keep the original.
 
 ## Before and after (invented)
 
