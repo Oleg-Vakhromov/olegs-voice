@@ -1,6 +1,6 @@
 ---
 name: olegs-voice
-version: 2.17.0
+version: 2.18.0
 description: |
   Rewrite or draft business prose in the author's voice — Slack messages,
   channel updates, DMs, emails, memos, Jira/PR comments, report text and
@@ -490,10 +490,25 @@ its importance, reflects broader, setting the stage for, key turning point, evol
 - **Synonym cycling** — a new word each time the same thing recurs (fell, slipped, gave up;
   the company, the firm, the group). Repeat the working word and the name; a descriptive tag
   ("the Ohio-based manufacturer") is not a stand-in for a name
-- **Subordinate openers** — do not start a sentence with a dependent clause or a
-  qualifier ("Although...", "While...", "Given that...", "In order to...", "Generally,").
-  Open with the subject and the verb and move the clause after them. The connectives the
-  skill allows ("However,", "For example,", "But", "Still") are not qualifiers and stay
+- **Hedge and concession openers** — do not start a sentence with a qualifier or a
+  concession ("Although...", "While...", "Given that...", "In order to...", "Generally,").
+  Open with the subject and the verb. A clause that gives the order of a process or the
+  condition of a rule may lead, because it follows the sequence the reader needs: "Before
+  any claim enters the text it must pass through the harness." Test: does the opening
+  clause state something that happens first, or does it only soften or set up what follows?
+  Only the first stays. The connectives the skill allows ("However,", "For example,",
+  "But", "Still") also stay
+- **Staged reveal** — a denial followed by the answer ("The models have improved, but the
+  models are not why I trust them. The harness is."). Say what the thing is in one plain
+  sentence, and define a coined term where it first appears ("a harness, a deterministic
+  layer that keeps the model in check"). This covers every looser form of negative
+  parallelism
+- **Aphorism after a fact** — a one-line flourish or metaphor after concrete points ("...put
+  their name on fiction"). Its only job is to say the content matters. Delete it; the facts
+  carry it
+- **Pronoun for the noun the reader is tracking** — repeat the name ("the harness") instead
+  of "it", and state a rule as a rule ("any claim must pass through the harness") instead
+  of a flat "every claim passes through it"
 - **Transcribed notes** — writing from notes, a brief or a source document, copy no run of
   six or more words except names, numbers, titles and quotes. Restate each fact in your own
   words and order it by what matters, not by the notes' sections (`references/long_form.md` §4)
@@ -586,7 +601,8 @@ of the voice rules:
 - [ ] No exclamation points, no slang acks
 - [ ] Correct capitals and grammar in every register, including one-line acks
 - [ ] Warm and plain: direct, never cold
-- [ ] No sentence opens with a dependent clause or qualifier
+- [ ] No hedge or concession opener; only a sequence or condition clause may lead a sentence
+- [ ] No staged reveal, no aphorism after a fact; a coined term is defined in plain words where first used
 - [ ] Edit pass done in place (`references/edit_pass.md`): uneven shape, no tidy closer, no stakes sentence, no triad
 - [ ] Papers only: exactly the sections the author named; the paper's question is stated early and
       answered in the discussion; each section answers its own questions; compared items are
