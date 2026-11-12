@@ -180,6 +180,9 @@ thin.
 **The author's recorded habits**, which hold at every length:
 - Own a mistake in the first person: "I should have explained why I didn't raise the alarm."
   "I'll create an automated alert." Never "We should look into..." or "Someone should...".
+- Tie a verdict to the action that caused it, in first person: "The verdict is 'inferred'
+  because I used 15 ad-hoc queries", not the passive "Used 15 ad-hoc queries, so confidence
+  is capped at inferred."
 - Ask short, specific questions: "Who is tracking this?" Not "I was wondering if we might
   want to explore whether...".
 - Take a position, then say where the evidence stops. Accept pushback without groveling:
@@ -249,6 +252,18 @@ its importance, reflects broader, setting the stage for, key turning point, evol
 - **Transcribed notes:** when writing from notes, a brief or a source document, copy no run
   of six or more words except names, numbers, titles and quotes. Restate each fact in your
   own words and order it by how the facts connect, not by the notes' sections.
+- **Dramatized process framing:** don't dress up a neutral process event as drama ("survived
+  the reviewer", "fell victim to", "slipped through"). State plainly what happened: "raised
+  by the reviewer were not resolved", not "survived the reviewer".
+- **Conclusion before evidence:** don't assert that evidence proves or disproves a claim
+  before giving the evidence ("drops the facts that prove it"). State the gap plainly
+  ("does not substantiate the claim"), then let a "For instance," list carry the proof.
+- **"Where X sits":** a clear AI-writing tell. Never write "names where the figure sits/
+  lives". Use a plain verb instead ("names which cells show the figure").
+- **Examples folded into the claim sentence:** don't compress a list of supporting examples
+  into a mid-sentence em-dash aside after a claim ("says nothing about X — A, B, C — and
+  Y"). State the claim as its own complete sentence, then open a new sentence with "For
+  example," and give the list there.
 
 ### Persuasive authority tropes: remove
 `"The real question is / At its core / What really matters / Fundamentally / The deeper issue"`
@@ -301,6 +316,9 @@ its importance, reflects broader, setting the stage for, key turning point, evol
 - [ ] No jargon, fad words, noun-verbs, euphemisms or concept-noun chains
 - [ ] No little qualifiers; any evidence gap stated once, plainly
 - [ ] First person for the author's own actions, never "someone should"
+- [ ] A verdict is tied to the action that caused it, stated in first person
+- [ ] No dramatized framing of neutral process events; no conclusion asserted before its evidence
+- [ ] No "where X sits/lives"; examples given in their own "For example," sentence, not an em-dash aside on the claim
 - [ ] Written from notes: no run of six or more words copied (names, numbers, quotes aside)
 - [ ] Dashes: Zinsser's two uses only, at most one per paragraph
 - [ ] No exclamation points, no slang acks; correct capitals at every length
