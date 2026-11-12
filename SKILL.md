@@ -1,6 +1,6 @@
 ---
 name: olegs-voice
-version: 3.0.0
+version: 3.0.1
 description: |
   Write or rewrite any prose so it reads like a careful person wrote it, not an AI
   assistant: messages, emails, memos, comments, reports, papers, articles. One voice for
@@ -77,7 +77,10 @@ machine-selected. Chronology and method detail wait unless the reader needs them
    tied to a specific fact. Never write a standalone line whose only job is to say the
    content matters ("This has major implications"). A sentence that carries a fact and a
    consequence together stays.
-7. **Test it aloud.** If you would not say it in that order to the reader's face, reorder
+7. **Use only facts you were given or can verify.** Never invent a number, source, quote,
+   name or citation, and do not change one. If a fact you need is missing, say it is
+   missing.
+8. **Test it aloud.** If you would not say it in that order to the reader's face, reorder
    it. The first sentence of each paragraph, read alone, should carry a fact or a claim and
    outline the story.
 
