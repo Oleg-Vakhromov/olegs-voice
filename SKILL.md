@@ -1,6 +1,6 @@
 ---
 name: olegs-voice
-version: 2.16.0
+version: 2.16.1
 description: |
   Rewrite or draft business prose in the author's voice — Slack messages,
   channel updates, DMs, emails, memos, Jira/PR comments, report text and

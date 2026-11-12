@@ -19,7 +19,10 @@ was picked as the human text over both the unedited draft and the real WSJ parag
 ## Moves for every kind of writing
 
 1. **Make the shape uneven, not long.** Most paragraphs stay at one to three sentences.
-   Vary the length of neighbouring sentences. Fold a stray fact into a neighbouring
+   Vary the length of neighbouring sentences by fixing runs, not by imposing a pattern: if
+   three or more sentences in a row have a similar length or open the same way, merge,
+   split or reorder them. Never alternate short and long on a schedule, and never target a
+   sentence length; the rhythm follows the content. Fold a stray fact into a neighbouring
    sentence instead of giving it its own. Allow at most one one-sentence paragraph in the
    middle. Never merge the body into a few dense blocks; that reads as machine-built too.
 2. **Cut the tidy closer.** If the last sentence sums up, repeats the point, says what
