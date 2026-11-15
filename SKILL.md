@@ -1,6 +1,6 @@
 ---
 name: olegs-voice
-version: 3.0.3
+version: 3.4.0
 description: |
   Write or rewrite any prose so it reads like a careful person wrote it, not an AI
   assistant: messages, emails, memos, comments, reports, papers, articles. One voice for
@@ -264,6 +264,20 @@ its importance, reflects broader, setting the stage for, key turning point, evol
   into a mid-sentence em-dash aside after a claim ("says nothing about X — A, B, C — and
   Y"). State the claim as its own complete sentence, then open a new sentence with "For
   example," and give the list there.
+- **Note-taking compression:** a sentence with a dropped auxiliary or a shortened verb phrase that no one says aloud ("We ran no chase", "We ran no keyword search"). Write the sentence you would say: "We didn't run a chase". Contract the auxiliary in a negation ("didn't", "doesn't", "wasn't") and keep the article. Connecting words stay (section 1, rule 4); compact means no filler, not no grammar.
+- **Containment verbs as metaphor:** "hold", "carry", "house", "capture" or "sit in" for what a text, corpus or table has. Use "contain", "include" or "have": "the first 100 results contained 6", not "held 6". A verb used this way must have the object stated ("the corpora contain papers a short keyword list does not reach"), never left for the reader to supply ("the corpora hold what a short keyword list does not").
+- **Verb with no stated object:** a clause that ends on a bare relative or a trailing "does not" so that the reader must guess what is meant ("On reach, the corpora hold what a short keyword list does not"). Name the thing and give the number behind it.
+- **Comparison with no second term:** "no more", "no less", "no better" or "as much" with nothing after it ("it recalled no more"). Name what it is compared with and give the figures: "it recalled the same share as the query run, 59% against 61%". Say "didn't recall more than the query run" if the numbers are elsewhere.
+- **A process step as the actor:** "the collection step decides what the study can find", "a selection decides which papers are kept". A step, stage or method has no will. Name the person or the rule, or say what follows from it: "a study can analyse only the papers it collects, so what it can find depends on how it collects them."
+- **Pronoun plus a noun made from a verb:** "a test of it", "a use of them", "an analysis of this". Name the thing: "a test of the method", and prefer the verb: "we tested the method".
+- **Unnamed referent:** "its threshold", "in that test", "in one test it worked", "in several of the studies we read", "none of the studies". A reader who meets the sentence alone must know which threshold, which test, what worked, which studies and how many. Name the thing and give the count: "the relevance threshold in the ESG run was 0.56, against 0.4 in the resilience run"; "in 3 of the 16 bibliometric studies we reviewed". Words like "that", "this", "its", "one" and "several" point back only to something named in the same or the previous sentence.
+- **"We read" for sources:** say "we reviewed" for papers and studies. "Read" fits a passage, not a study.
+- **A named tool or dataset with no introduction:** the first time a tool, dataset, method or paper is named (BibliZap, ProfOlaf), say in one clause what it is and add its reference or footnote. A reader outside the field must be able to follow without searching.
+- **Count the claim:** a sentence that says "one question", "two reasons" or "three steps" must contain exactly that many. Count before writing the number, and split the sentence if the count is wrong.
+- **"Adds that cut" and similar template verbs:** "X adds that cut", "X closes that gap", "X fills that need" are slogans that name no action. Say what X does, with its object and its number.
+- **Wrong verb for the object:** a method, design, approach or protocol is applied or used, not run. You run a program, a script, a query or a search. "We ran the method twice" becomes "We applied the method twice". Check each verb against what it governs.
+- **Colon as a joint:** a colon introduces a list, a quotation or a definition that is only a list of terms. It must not join two clauses ("It still recovers papers: in one study...", "The threshold sets the trade-off: too high drops..."). Use a period, "because" or "so". At most one colon in a page of prose, and none where a period works.
+- **One fix is a search:** when a reader flags a phrase, search the whole text for the same pattern, fix every instance and report the count. Fixing only the quoted sentence leaves the tell in the rest of the text.
 
 ### Persuasive authority tropes: remove
 `"The real question is / At its core / What really matters / Fundamentally / The deeper issue"`
@@ -323,4 +337,11 @@ its importance, reflects broader, setting the stage for, key turning point, evol
 - [ ] Dashes: Zinsser's two uses only, at most one per paragraph
 - [ ] No exclamation points, no slang acks; correct capitals at every length
 - [ ] Warm and plain: direct, never cold
+- [ ] Every negation reads as speech: contracted auxiliary, article kept ("didn't run a chase", not "ran no chase")
+- [ ] No "hold/carry/capture" for what a text or corpus contains; every verb has its object stated
+- [ ] Every comparison names the second term; no step, stage or method decides, chooses or wants; no "test of it" style nouns with a bare pronoun
+- [ ] Every "it", "that", "one", "several" and "none" points to a named thing in the same or previous sentence, with a count where one is meant; papers are "reviewed", not "read"
+- [ ] Each tool, dataset or method is introduced with a clause and a reference at first mention; each stated count ("one question") matches the text
+- [ ] Each verb fits its object (a method is applied, a query is run); colons only before a list or quotation, not between two clauses
+- [ ] After a style correction, the whole text was searched for the same pattern and every instance fixed
 - [ ] Edit pass done in place (`references/edit_pass.md`)

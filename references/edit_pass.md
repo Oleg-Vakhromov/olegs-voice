@@ -72,6 +72,25 @@ was picked as the human text over both the unedited draft and the real human par
     first two paragraphs ("Ridgeway blamed diesel costs for the cut", when the opening
     already said so). If the ending reuses a phrase from the middle ("one of several
     steps to...") cut the ending's copy and keep the original.
+15. **Say it as you would say it.** Read each negation and each short verb aloud. "We ran
+    no chase" becomes "We didn't run a chase". "The first 100 results held 6" becomes "The
+    first 100 results contained 6". "The corpora hold what a short keyword list does not"
+    names no object; say what the corpora contain and give the number. Use "contain",
+    "include" or "have" for what a text or corpus has, and state the object of every verb.
+16. **Finish the comparison and name the actor.** "It recalled no more" becomes a
+    comparison with its second term and the figures. "The collection step decides what the
+    study can find" becomes a plain statement of what depends on what. "A test of it"
+    becomes "a test of the method" or "we tested the method".
+17. **Resolve every pointer.** For each "it", "that test", "its threshold", "one", "several"
+    and "none", ask which thing and how many, and write the answer in the sentence. At the
+    first mention of a tool or dataset, add what it is and a reference. Check each stated
+    count ("one question") against the sentence.
+18. **Fit the verb, ration the colon.** "Ran the method" becomes "applied the method". Count
+    the colons: keep one before a real list or quotation, replace the rest with a period,
+    "because" or "so".
+19. **Search for the pattern.** When one phrase is a tell, search the whole text for the
+    same wording ("ran no", "held", "hold") and fix every instance. Report how many you
+    found and fixed.
 
 ## Before and after (invented)
 
